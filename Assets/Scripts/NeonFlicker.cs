@@ -6,7 +6,6 @@ public class NeonFlicker : MonoBehaviour
     [Header("Glow Settings")]
     [SerializeField] private Color glowColor = new Color(0f, 1f, 1f, 1f); // Cyan neon
     [SerializeField] private float glowIntensity = 3f;
-    [SerializeField] private float glowSize = 0.1f;
 
     [Header("Flicker Settings")]
     [SerializeField] private float flickerSpeed = 0.1f;
