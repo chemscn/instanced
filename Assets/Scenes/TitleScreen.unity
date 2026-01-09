@@ -164,9 +164,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f2970e654aa8b6a4ebf3b384f4a9285a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NeonGlow
-  glowColor: {r: 0.3529412, g: 0.50980395, b: 0.9294118, a: 1}
+  glowColor: {r: 0.3529412, g: 0.50980395, b: 0.9294118, a: 0.21960784}
   glowIntensity: 3
-  glowSize: 0.1
+  glowSize: 0.2
   flickerSpeed: 0.5
   minIntensity: 0.5
   maxIntensity: 1
@@ -6207,7 +6207,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f2970e654aa8b6a4ebf3b384f4a9285a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NeonGlow
-  glowColor: {r: 0.8705883, g: 0.15294118, b: 0.5764706, a: 1}
+  glowColor: {r: 0.8705883, g: 0.15294118, b: 0.5764706, a: 0.22745098}
   glowIntensity: 3
   glowSize: 0.1
   flickerSpeed: 0.5
@@ -7270,7 +7270,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f2970e654aa8b6a4ebf3b384f4a9285a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NeonGlow
-  glowColor: {r: 0.63529414, g: 0.21960786, b: 0.7019608, a: 1}
+  glowColor: {r: 0.63529414, g: 0.21960786, b: 0.7019608, a: 0.22745098}
   glowIntensity: 3
   glowSize: 0.1
   flickerSpeed: 0.5
